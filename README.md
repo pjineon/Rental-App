@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Rental%20Application&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Rental%20Application&fontSize=90)
 
 
 # 딥러닝 기술을 활용한 대여 애플리케이션
