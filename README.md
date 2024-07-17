@@ -2,7 +2,7 @@
 
 
 # 딥러닝 기술을 활용한 대여 애플리케이션
-안양대학교 졸업 프로젝트
+
  - email : flowervelt@naver.com
 
  - members : 
